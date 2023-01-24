@@ -1,0 +1,11 @@
+
+/* .carousel-inner img{
+    height: 85vh;
+} */
+.carousel-caption{
+    left:-5%;
+    opacity:.5;
+}
+/* ul.no-bullets {
+    list-style-type: none;
+  } */
